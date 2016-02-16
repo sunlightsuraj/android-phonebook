@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PhoneBook</string>
+    <string name="add_contact_title">Add New Contact</string>
+    <string name="setting">Setting</string>
+    <string name="refresh">Refresh</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="street_address">Street Address</string>
+    <string name="city">City</string>
+    <string name="country">Country</string>
+    <string name="about">About</string>
+    <string name="mobile">Mobile</string>
+    <string name="home">Home</string>
+    <string name="user_image" />
+    <string name="street">Street</string>
+    <string name="image_description">User Image</string>
+    <string name="update_contact">Update Contact</string>
+    <string name="reset">reset</string>
+</resources>
